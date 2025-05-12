@@ -161,7 +161,7 @@
 .dasturchi p{
      font-family: Noto Sans;
     font-weight: 400;
-    font-size: 20px;
+    font-size: 25px;
     line-height: 27px;
     letter-spacing: 0%;
     /* text-align: center; */
@@ -169,6 +169,30 @@
     /* border-radius: 5px; */
 }
 
+.dasturchi h3{
+     font-family: Recoleta;
+    font-weight: 600;
+    font-size: 48px;
+    line-height: 54px;
+    letter-spacing: 0%;
+    /* text-align: center; */
+    margin-bottom: 74px;
+    color:#1B1A18;  
+}
+.dasturchi p{
+     font-family: Noto Sans;
+    font-weight: 400;
+    font-size: 25px;
+    line-height: 27px;
+    letter-spacing: 0%;
+    /* text-align: center; */
+    color: red;
+    /* border-radius: 5px; */
+}
+.elementor-widget-container h3{
+    font-size: 22px;
+    color: yellowgreen;
+}
 .baarik-more-text {
   width: 580px;
   font-size: 32px;
